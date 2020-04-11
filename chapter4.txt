@@ -2,4 +2,6 @@ atia is sofware developer love
 programming so mush and making aswsome solution
 the true is to make solution for biz  not just write wonderful  
 code  in this manner  . 
-
+and begin to leave legacy  pl/sql code and java  i will still use it  
+but  now i need upgrade  to next level learing node.js  for building opensource project web 
+and pyhton for data science project  and  machine learing  project   
